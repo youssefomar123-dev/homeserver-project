@@ -1,5 +1,7 @@
 # Setting up a Cloud Storage Server on Debian
 
+**Caution: some major parts of this turorial are wrong, so I'm gonna edit them when I'm done irl**
+
 1. Download Debian from its website
 
     The big download button will give you the latest stable, x86_64, netinst iso
